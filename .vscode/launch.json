@@ -2,6 +2,24 @@
   "configurations": [
     {
       "type": "java",
+      "name": "CodeLens (Launch) - Store",
+      "request": "launch",
+      "mainClass": "Store"
+    },
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - Dog",
+      "request": "launch",
+      "mainClass": "Dog"
+    },
+    {
+      "type": "java",
+      "name": "CodeLens (Launch) - Start",
+      "request": "launch",
+      "mainClass": "Start"
+    },
+    {
+      "type": "java",
       "name": "CodeLens (Launch) - Quickstart",
       "request": "launch",
       "mainClass": "Quickstart"
